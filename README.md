@@ -30,7 +30,7 @@ Commit and Push:
 
 ```
 git add .
-git commit -m "Add solution for Challenge Name"
+git commit -m "Add solution - Challenge Name"
 git push origin main
 ```
 Create a Pull Request:
