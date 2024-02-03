@@ -4,7 +4,7 @@ Welcome to my HackerRank solutions repository! 🚀 Here, you'll find my solutio
 
 ## How to Use
 
-Explore the challenges by navigating to the respective directories. Each challenge contains the problem statement (`README.md`) and my solution (`solution.py` or other relevant files).
+Explore the challenges by navigating to the respective directories. Each challenge contains the problem statement `README.md` and my solution `solution.py` or other relevant files.
 
 ## Contributing
 
